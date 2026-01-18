@@ -1,2 +1,23 @@
-# Book-Finder
-Book Finder App is a web application that allows users to search for books by title, author, or keywords. It fetches real-time book data using the Google Books API and displays details like book cover, author, and description.<br> This project demonstrates API integration and dynamic data handling using JavaScript.
+#  Book Finder App
+
+A simple Book Finder web application that allows users to search for books by title using the Open Library API.
+
+##  Features
+- Search books by title
+- Displays book title, author, and publish year
+- Responsive UI
+
+##  Tech Stack
+- React.js
+- JavaScript
+- Open Library API
+
+##  How to Run
+1. Clone the repository  
+   git clone <https://github.com/Sayali-Malusare22/Book-Finder.git>
+
+2. Install dependencies  
+   npm install
+
+3. Start the app  
+   npm start
